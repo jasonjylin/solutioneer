@@ -1,3 +1,9 @@
+# MAKE .env FILE FIRST
+
+`.env` in the source directory
+- Add METAPHOR_API_KEY=your_metaphor_api_key
+- Add OPENAI_API_KEY=your_openai_api_key
+
 # Docker Instructions
 
 ## Build the Docker image
